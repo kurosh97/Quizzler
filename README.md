@@ -1,15 +1,11 @@
 
 #  Quizzler
 
-## Our Goal
+## Goal
 
 The goal of this tutorial is to take you one step further in your journey of becoming an app developer. We are going to introduce you to the holy grail of mobile design patterns: the Model View Controller (MVC) pattern. A design pattern is simply a repeatable and optimised solution to a common software problem and you’ll learn more about this when use in the tutorial.
 
-## What you will create
-
-You will program a trivia quiz app. If you have another field of expertise such as law or medicine, you’ll be glad to know that multiple choice question apps are one of the most popular types of educational apps on the App Store! 
-
-## What you will learn
+## What I have learned by making this app
 
 * How to programmatically change UI elements such as Labels and Buttons.
 * What is a design pattern and how is it used in programming.
@@ -41,7 +37,7 @@ You will program a trivia quiz app. If you have another field of expertise such 
 ```
 
 ## Multiple Choice Quiz
-
+# I will add more features to this application in the near future...
 ```
  Question(q: "Which is the largest organ in the human body?", a: ["Heart", "Skin", "Large Intestine"], correctAnswer: "Skin"),
         Question(q: "Five dollars is worth how many nickels?", a: ["25", "50", "100"], correctAnswer: "100"),
@@ -56,6 +52,4 @@ You will program a trivia quiz app. If you have another field of expertise such 
 ```        
 
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](Documentation/readme-end-banner.png)
