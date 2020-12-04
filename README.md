@@ -37,7 +37,7 @@ The goal of this tutorial is to take you one step further in your journey of bec
 ```
 
 ## Multiple Choice Quiz
-# I will add more features to this application in the near future...
+### I will add more features to this application in the near future...
 ```
  Question(q: "Which is the largest organ in the human body?", a: ["Heart", "Skin", "Large Intestine"], correctAnswer: "Skin"),
         Question(q: "Five dollars is worth how many nickels?", a: ["25", "50", "100"], correctAnswer: "100"),
